@@ -1,0 +1,2 @@
+This is git tutorial
+git is a version control system and GitHub is web a hosting repository system
